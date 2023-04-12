@@ -43,4 +43,4 @@ https://www.youtube.com/watch?v=znAxRzhAlys&ab_channel=BillsDios
 * **[Rebecca.snd]**: This file stores all the sounds of the character.
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
+If you wish to hire us, please contact us at the following e-mail address: t3.aila.dev@gmail.com
